@@ -1,3 +1,3 @@
 ### Hello, I'm Noah
 
-Contractor for Sandstorm Design
+Front-End Developer for Sandstorm Design
